@@ -54,6 +54,9 @@ This system is designed for low-pressure use only. Always operate within conserv
 /hardware    Regulator specifications and fittings
 /photos      Assembly and prototype images
 
+# Hardware details
+* [CAD](hardware/air tank interface.stl)
+
 📖 License
 
 This project is provided for research and educational purposes only. Users are responsible for ensuring safe operation in their own implementations.
