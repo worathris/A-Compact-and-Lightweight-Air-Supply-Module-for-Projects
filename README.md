@@ -6,6 +6,8 @@ Wiring diagram
 
 📸 Demonstration Media
 
+(https://www.youtube.com/watch?v=RPSVxwgFebI)
+
 Watch the video
 
 📌 Project Overview
