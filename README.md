@@ -2,6 +2,8 @@ Smart Air Tank with Regulator Module
 
 🔌 Wiring Diagram
 
+<img src="hardware/wiring diagram.jpg" alt="wiring_diagram"/>
+
 Wiring diagram
 
 📸 Demonstration Media
