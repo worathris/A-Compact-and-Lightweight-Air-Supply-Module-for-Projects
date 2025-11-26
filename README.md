@@ -2,7 +2,6 @@
 <img src="hardware/AirTankInterface.jpg"/>
 
 ## 🔌 Wiring Diagram
-
 <img src="hardware/wiring diagram.jpg" alt="wiring_diagram"/>
 
 Wiring diagram
