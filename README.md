@@ -55,7 +55,7 @@ This system is designed for low-pressure use only. Always operate within conserv
 /photos      Assembly and prototype images
 
 # Hardware details
-* [CAD](hardware/air tank interface.stl)
+* [CAD](hardware/AirTankInterface.stl)
 
 📖 License
 
