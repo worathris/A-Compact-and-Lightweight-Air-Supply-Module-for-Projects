@@ -1,4 +1,5 @@
-Smart Air Tank with Regulator Module
+# Smart Air Tank with Regulator Module
+<img src="hardware/AirTankInterface.jpg"/>
 
 🔌 Wiring Diagram
 
@@ -54,8 +55,14 @@ This system is designed for low-pressure use only. Always operate within conserv
 /hardware    Regulator specifications and fittings
 /photos      Assembly and prototype images
 
+## 🛠️ Hardware
+- **Pressure sensor:** SMC ISE40-T1-22L
+- **Solenoid valve:** SMC SYJ512M-5MZ-M5-F
+
 # Hardware details
 * [CAD](hardware/AirTankInterface.stl)
+* [ISE40-T1-22L Datasheet](https://www.smcpneumatics.com/pdfs/ISE40_ZSE40.pdf)
+* [SYJ512M-5MZ-M5-F Datasheet](https://www.smcpneumatics.com/pdfs/SYJ_3PT.pdf)
 
 📖 License
 
