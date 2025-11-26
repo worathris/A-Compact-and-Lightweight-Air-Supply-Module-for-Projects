@@ -49,10 +49,10 @@ Mobile or desktop pneumatic setups
 This system is designed for low-pressure use only. Always operate within conservative pressure limits, verify all pneumatic connections, and ensure the compatibility of attached components. This project is intended strictly for experimental and educational use.
 
 ## 📂 Repository Structure
-/docs        System description and diagrams
-/cad         Mechanical drawings and mounting parts
-/hardware    Regulator specifications and fittings
-/photos      Assembly and prototype images
+- **/docs**        System description and diagrams
+- **/cad**         Mechanical drawings and mounting parts
+- **/hardware**    Regulator specifications and fittings
+- **/photos**      Assembly and prototype images
 
 ## 🛠️ Hardware
 - **Pressure sensor:** SMC ISE40-T1-22L
