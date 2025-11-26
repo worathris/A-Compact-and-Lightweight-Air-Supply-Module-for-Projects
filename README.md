@@ -1,9 +1,11 @@
-mart Air Tank with Regulator Module
-
+Smart Air Tank with Regulator Module
 🔌 Wiring Diagram
-<img src="hardware/wiring_diagram.jpg" alt="wiring diagram"/>
 
-📸 Demonstration Media [![Watch the video](https://img.youtube.com/vi/RPSVxwgFebI/hqdefault.jpg)](https://www.youtube.com/watch?v=RPSVxwgFebI)
+Wiring diagram
+
+📸 Demonstration Media
+
+Watch the video
 
 📌 Project Overview
 
@@ -13,7 +15,7 @@ The project emphasizes modularity, portability, and controllability, making it i
 
 ⚙️ System Description
 
-The air tank serves as the compressed air storage unit, while the integrated regulator module ensures controlled and consistent output pressure. The regulator decouples the outlet pressure from fluctuations in the tank pressure, allowing reliable operation of downstream pneumatic components.
+The air tank serves as the compressed air storage unit, while the integrated regulator module ensures controlled and consistent output pressure. The regulator decouples the outlet pressure from fluctuations in tank pressure, allowing reliable operation of downstream pneumatic components.
 
 The module can be extended with sensors or programmable control units; however, the core contribution of this project is the integration of an air tank and regulator into a compact and portable module.
 
@@ -41,8 +43,7 @@ Mobile or desktop pneumatic setups
 
 🚧 Safety Notice
 
-This system is designed for low-pressure use only.
-Always operate within conservative pressure limits, verify all pneumatic connections, and ensure the compatibility of attached components. This project is intended strictly for experimental and educational use.
+This system is designed for low-pressure use only. Always operate within conservative pressure limits, verify all pneumatic connections, and ensure the compatibility of attached components. This project is intended strictly for experimental and educational use.
 
 📂 Repository Structure
 /docs        System description and diagrams
@@ -52,5 +53,4 @@ Always operate within conservative pressure limits, verify all pneumatic connect
 
 📖 License
 
-This project is provided for research and educational purposes only.
-Users are responsible for ensuring safe operation in their own implementations.
+This project is provided for research and educational purposes only. Users are responsible for ensuring safe operation in their own implementations.
