@@ -1,8 +1,8 @@
 # Smart Air Tank with Regulator Module
-<img src="hardware/AirTankInterface.jpg"/>
+<img src="photos/AirTankInterface.jpg"/>
 
 ## 🔌 Wiring Diagram
-<img src="hardware/wiring diagram.jpg" alt="wiring_diagram"/>
+<img src="docs/wiring diagram.jpg" alt="wiring_diagram"/>
 
 Wiring diagram
 
@@ -48,7 +48,7 @@ Mobile or desktop pneumatic setups
 
 This system is designed for low-pressure use only. Always operate within conservative pressure limits, verify all pneumatic connections, and ensure the compatibility of attached components. This project is intended strictly for experimental and educational use.
 
-📂 Repository Structure
+## 📂 Repository Structure
 /docs        System description and diagrams
 /cad         Mechanical drawings and mounting parts
 /hardware    Regulator specifications and fittings
@@ -59,7 +59,7 @@ This system is designed for low-pressure use only. Always operate within conserv
 - **Solenoid valve:** SMC SYJ512M-5MZ-M5-F
 
 # Hardware details
-* [CAD](hardware/AirTankInterface.stl)
+* [CAD](cad/AirTankInterface.stl)
 * [ISE40-T1-22L Datasheet](https://www.smcpneumatics.com/pdfs/ISE40_ZSE40.pdf)
 * [SYJ512M-5MZ-M5-F Datasheet](https://www.smcpneumatics.com/pdfs/SYJ_3PT.pdf)
 
