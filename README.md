@@ -57,6 +57,8 @@ This system is designed for low-pressure use only. Always operate within conserv
 ## 🛠️ Hardware
 - **Pressure sensor:** SMC ISE40-T1-22L
 - **Solenoid valve:** SMC SYJ512M-5MZ-M5-F
+- **Carbonation cap**
+- **Ball Lock Disconnect**
 
 # Hardware details
 * [CAD](cad/AirTankInterface.stl)
