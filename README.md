@@ -8,7 +8,7 @@ Wiring diagram
 
 📸 Demonstration Media
 
-(https://www.youtube.com/watch?v=RPSVxwgFebI)
+(https://img.youtube.com/vi/RPSVxwgFebI/hqdefault.jpg)](https://www.youtube.com/watch?v=RPSVxwgFebI)
 
 Watch the video
 
